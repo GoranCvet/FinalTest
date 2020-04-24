@@ -61,7 +61,6 @@ namespace WorldUjp.Pages.Product
 
                 return RedirectToPage("ProductList", new { id = TaxPayer.Id });
                 
-
             }
 
 
