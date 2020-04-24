@@ -46,6 +46,9 @@ namespace WorldUjp.Pages.Product
 
         public IActionResult OnPost()
         {
+            var temp = taxPayerService.GetTaxPayer(TaxPayer.Id); // Mi se javuvase problem, koga klikam na Save a validacijata 
+                                                                 // ne pominuva, pri renderiranje mi se gubea F_Name i L_Name na kupuvacot. 
+                                                                 // So ova mi se reshava toj problem.
             if (ModelState.IsValid)
             {
                 Product.TaxPayerId = TaxPayer.Id;
@@ -61,11 +64,13 @@ namespace WorldUjp.Pages.Product
 
             }
 
+
             SelectDDV = ddvService.GetAll().Select(d => new SelectListItem
             {
                 Text = d.Tax.ToString(),
                 Value = d.Id.ToString()
             });
+            TaxPayer = temp;
             return Page();
         }
     }
