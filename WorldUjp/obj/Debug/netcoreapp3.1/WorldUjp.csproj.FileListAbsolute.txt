@@ -1,0 +1,448 @@
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.exe
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.deps.json
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.runtimeconfig.json
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.runtimeconfig.dev.json
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.pdb
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.Views.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.Views.pdb
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.csprojAssemblyReference.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\staticwebassets\WorldUjp.StaticWebAssets.Manifest.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\staticwebassets\WorldUjp.StaticWebAssets.xml
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorAssemblyInfo.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorAssemblyInfo.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.AssemblyInfoInputs.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.AssemblyInfo.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.TagHelpers.input.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.TagHelpers.output.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorCoreGenerate.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorTargetAssemblyInfo.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorTargetAssemblyInfo.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.Views.pdb
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.pdb
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.csproj.CopyComplete
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Core.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Data.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Country\Index.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\TaxPayer\Index.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Product\Create.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Product\Index.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Product\_TaxPayerInfo.cshtml.g.cs
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.csprojAssemblyReference.cache
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.dll
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.pdb
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.exe
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.deps.json
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.runtimeconfig.json
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.runtimeconfig.dev.json
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.pdb
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.Views.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.Views.pdb
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.csprojAssemblyReference.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorAssemblyInfo.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorAssemblyInfo.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.AssemblyInfoInputs.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.AssemblyInfo.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.TagHelpers.input.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.TagHelpers.output.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorCoreGenerate.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Country\Index.cshtml.g.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\TaxPayer\Index.cshtml.g.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorTargetAssemblyInfo.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorTargetAssemblyInfo.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.Views.pdb
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.csproj.CopyComplete
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\staticwebassets\WorldUjp.StaticWebAssets.Manifest.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\staticwebassets\WorldUjp.StaticWebAssets.xml
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.dll
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.pdb
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.genruntimeconfig.cache
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Product\ProductList.cshtml.g.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Product\CreateProduct.cshtml.g.cs
+C:\Users\Goran\Desktop\WorldUjp\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_TaxPayerPartialView.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.exe
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.deps.json
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.runtimeconfig.json
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.runtimeconfig.dev.json
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.pdb
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.Views.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\WorldUjp.Views.pdb
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.csprojAssemblyReference.cache
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.csproj.CoreCompileInputs.cache
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorAssemblyInfo.cache
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorAssemblyInfo.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.AssemblyInfoInputs.cache
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.AssemblyInfo.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.TagHelpers.input.cache
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.TagHelpers.output.cache
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorCoreGenerate.cache
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Country\Index.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Product\CreateProduct.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Product\ProductList.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_TaxPayerPartialView.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\TaxPayer\Index.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorTargetAssemblyInfo.cache
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.RazorTargetAssemblyInfo.cs
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.Views.pdb
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.csproj.CopyComplete
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\staticwebassets\WorldUjp.StaticWebAssets.Manifest.cache
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\staticwebassets\WorldUjp.StaticWebAssets.xml
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.dll
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.pdb
+C:\Users\Goran\source\repos\FinalTest\WorldUjp\obj\Debug\netcoreapp3.1\WorldUjp.genruntimeconfig.cache

@@ -1,0 +1,50 @@
+﻿@page "{id:int}"
+@model WorldUjp.Pages.Product.ProductListModel
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+<partial name="_TaxPayerPartialView" model="Model.TaxPayer" />
+
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <div class="alert alert-info">
+        @Model.Message
+    </div>
+}
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                DDV
+            </th>
+        </tr>
+    </thead>
+    @foreach (var item in Model.TaxPayer.Products)
+    {
+        <tr>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Price
+            </td>
+            <td>
+                @item.DDV.Tax%
+            </td>
+        </tr>
+    }
+
+</table>
+
+<a class="btn btn-primary" asp-page="CreateProduct" asp-route-id="@Model.TaxPayer.Id">Add Product</a>

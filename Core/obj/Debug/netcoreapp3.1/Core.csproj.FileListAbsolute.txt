@@ -1,0 +1,32 @@
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Goran\Desktop\WorldUjp\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Goran\Desktop\WorldUjp\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Goran\Desktop\WorldUjp\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Goran\Desktop\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\Goran\Desktop\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Desktop\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Goran\Desktop\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Goran\Desktop\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Goran\Desktop\WorldUjp\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Goran\source\repos\FinalTest\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Goran\source\repos\FinalTest\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Goran\source\repos\FinalTest\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Goran\source\repos\FinalTest\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\Goran\source\repos\FinalTest\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Goran\source\repos\FinalTest\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Goran\source\repos\FinalTest\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Goran\source\repos\FinalTest\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Goran\source\repos\FinalTest\Core\obj\Debug\netcoreapp3.1\Core.pdb

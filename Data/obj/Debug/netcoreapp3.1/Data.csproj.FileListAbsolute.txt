@@ -1,0 +1,48 @@
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\bin\Debug\netcoreapp3.1\Core.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\Personal\CodeAcademy\Test Final\WorldUjp\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Personal\CodeAcademy\Test Final\ReadyForTest\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Goran\Desktop\WorldUjp\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Goran\Desktop\WorldUjp\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\Goran\Desktop\WorldUjp\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\Goran\Desktop\WorldUjp\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Goran\Desktop\WorldUjp\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Goran\Desktop\WorldUjp\Data\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Goran\Desktop\WorldUjp\Data\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Goran\Desktop\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Goran\Desktop\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Desktop\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Goran\Desktop\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Goran\Desktop\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Goran\Desktop\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Goran\Desktop\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Goran\Desktop\WorldUjp\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\Goran\source\repos\FinalTest\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Goran\source\repos\FinalTest\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\Goran\source\repos\FinalTest\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\Goran\source\repos\FinalTest\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Goran\source\repos\FinalTest\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Goran\source\repos\FinalTest\Data\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Goran\source\repos\FinalTest\Data\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Goran\source\repos\FinalTest\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Goran\source\repos\FinalTest\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Goran\source\repos\FinalTest\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Goran\source\repos\FinalTest\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Goran\source\repos\FinalTest\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Goran\source\repos\FinalTest\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Goran\source\repos\FinalTest\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Goran\source\repos\FinalTest\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

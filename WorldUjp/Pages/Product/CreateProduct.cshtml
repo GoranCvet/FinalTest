@@ -1,0 +1,46 @@
+﻿@page
+@model WorldUjp.Pages.Product.CreateProductModel
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+<form method="post" >
+    <input type="hidden" asp-for="@Model.TaxPayer.Id" />
+    <input type="hidden" asp-for="@Model.TaxPayer.CountryId" />
+
+    <partial name="_TaxPayerPartialView" model="Model.TaxPayer" />
+
+   
+
+    <div class="form-row">
+        <div class="form-group col-sm-4">
+            <label asp-for="@Model.Product.Name"></label>
+            <input class="form-control" asp-for="@Model.Product.Name" />
+            <span asp-validation-for="@Model.Product.Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group col-sm-4">
+            <label asp-for="@Model.Product.Price"></label>
+            <input class="form-control" asp-for="@Model.Product.Price" value="/"/>
+            <span asp-validation-for="@Model.Product.Price" class="text-danger"></span>
+        </div>
+
+        <div class="form-group col-sm-4">
+            <label asp-for="@Model.Product.DDVId"></label>
+            <select class="form-control" asp-for="@Model.Product.DDVId" asp-items="@Model.SelectDDV">
+                <option value="">Pick a DDV</option>
+            </select>
+            <span asp-validation-for="@Model.Product.DDVId" class="text-danger"></span>
+        </div>
+
+    </div>
+
+
+    <div class="justify-content-between">
+        <button class="btn btn-primary" type="submit">Save</button>
+        <a class="btn btn-primary" asp-page="./ProductList" asp-route-id="@Model.TaxPayer.Id">Cancel</a>
+    </div>
+
+
+</form>
